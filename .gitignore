@@ -1,0 +1,21 @@
+.idea/
+
+## server
+/ascetkd-server/node_modules
+/ascetkd-server/dist
+/ascetkd-server/npm-debug.log
+
+## client
+# compiled output
+/ascetkd-client/dist
+/ascetkd-client/tmp
+
+# dependencies
+/ascetkd-client/node_modules
+
+# misc
+/ascetkd-client/npm-debug.log
+
+# e2e
+/ascetkd-client/e2e/*.js
+/ascetkd-client/e2e/*.map
